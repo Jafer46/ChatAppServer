@@ -1,0 +1,25 @@
+//**************************************************
+Id
+8d838cfc-50be-4490-aedf-7d2955d4e237
+
+password
+1QcAS8xjVUUfcmwzujLvlKzgWddSuWTED+xSsFRBxy+qzmSp
+Hello@24
+
+to send
+{
+  "protocol": "json",
+  "version": 1
+}
+test 1
+{
+  "arguments": ["HelloUser","Hello@24"],
+  "target":"SignIn",
+  "type": 1
+}
+
+123theJafer!
+
+token
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiVXNlciIsIm5iZiI6IjE3MDQwMjU3MDAiLCJleHAiOiIxNzA0MTEyMTAwIn0.i5SQugCY1su5EDXS8GaN3qjOdc8Ihos6Uq2mDJN5hZM
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiVXNlciIsIm5iZiI6IjE3MDQwMjg4OTYiLCJleHAiOiIxNzA0MTE1Mjk2In0.9ZTHdZyQq6z6svBwS8nldH0YK8SfzZPSCFxc7Ay5SE8
